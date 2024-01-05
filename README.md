@@ -3,7 +3,7 @@ This is Pytorch implementation for "Rethinking Remote Sensing Pretrained Model: 
 ## Overview
 ![image](picture/IVP.png)
 
-## 📖Dataset Preparation
+## Dataset Preparation
 ### Dataset Structure
 * `LEVIR-CD-Point`:
     * `train`:
