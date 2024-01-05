@@ -5,22 +5,6 @@ This is Pytorch implementation for "Rethinking Remote Sensing Pretrained Model: 
 
 ## Dataset Preparation
 ### Dataset Structure
-* `LEVIR-CD-Point`:
-    * `train`:
-      * `C`：Changed images.
-      * `UC`：Unchanged images.
-    * `test`:
-      * `image`
-      * `image2`
-      * `label`
-* `DSIFN-CD-Point`:
-    * `train`:
-      * `C`：Changed images.
-      * `UC`：Unchanged images.
-    * `test`:
-      * `image`
-      * `image2`
-      * `label`
 ### Data Download
 The LEVIR-CD-Point dataset can be downloaded from: [here](https://pan.baidu.com/s/1bV1TCNxbloJveqh1eG3a7w?pwd=dskl) 
 
